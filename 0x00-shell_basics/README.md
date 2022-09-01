@@ -11,4 +11,6 @@
 5-listfilesdigitonly - Display current directory contents.
 
 
-7-movethatfile - Move the file 
+7-movethatfile - Move the file
+
+8-firstdelete - Delete the file 
