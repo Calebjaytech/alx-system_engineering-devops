@@ -21,8 +21,8 @@
 
 11-lists - Lists
 
-12 - file type
+12- file_type - file type
 
-13 - We are symbols, and inhabit symbols
+13-symbolic_link - We are symbols, and inhabit symbols
 
 14-copy_html - Copy HTML files  
