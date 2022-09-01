@@ -33,4 +33,6 @@
 
 17-Tree - Tree
 
-18- 103-commas - Life is a series of commas, not periods  
+18- 103-comma - Life is a series of commas, not periods
+
+19-school.mgc - File type: School  
