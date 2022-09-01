@@ -10,4 +10,5 @@
 
 5-listfilesdigitonly - Display current directory contents.
 
-6-firstdirectory - script that creates a directory named 
+
+7-movethatfile - Move the file 
