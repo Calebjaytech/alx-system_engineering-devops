@@ -27,4 +27,6 @@
 
 14-copy_html - Copy HTML files
 
-15-100-lets_move- Let’s move  
+15-100-lets_move- Let’s move
+
+16-Clean Emacs - clean_emacs  
