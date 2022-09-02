@@ -24,4 +24,12 @@
 
 12- 12-directory_permissions - More directories
 
-13- 
+13- 13-change_group - Change group 
+
+14- 100-change_owner_and_group - Owner and group
+
+15- 101-symbolic_link_permissions -  Symbolic links
+
+16- 102-if_only -  If only
+
+17- 103-Star_Wars - Star Wars
