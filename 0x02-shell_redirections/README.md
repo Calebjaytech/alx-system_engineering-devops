@@ -24,4 +24,8 @@
 19 -19-AZ -  A to Z
 20 - 20-hiago - Without C, you would live in hiago
 21 - 21-reverse - esreveR
-22 - 22-users_and_homes - DJ Cut Killer 
+22 - 22-users_and_homes - DJ Cut Killer
+23 - 23 - 100-empty_casks - Empty casks make the most noise
+24 - 101-gifs - A gif is worth ten thousand words
+25 - 102-acrostic - Acrostic
+26 - 103-the_biggest_fan - The biggest fan 
