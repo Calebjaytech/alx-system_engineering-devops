@@ -5,7 +5,7 @@
 4 - 4-lastlines - Last lines of a file
 5 - 5-firstlines - actually
 6 - 6-third_line -  Line #2
-7 - 7-file -  It is a good file that cuts iron without making a noise
+7 - 7-file -  It is a good file
 8 - 8-cwd_state -  Save current state of directory
 9 - 9-duplicate_last_line - Duplicate last line 
 10 - 10-no_more_js - No more javascript
