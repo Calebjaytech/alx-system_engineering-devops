@@ -8,7 +8,7 @@
 7 - 7-create_global_variable - Global variable
 8 - 8-true_knowledge - Every addition to true knowledge
 9 - 9-divide_and_rule - Divide and rule
-10 - 10-love_exponent_breath -  Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
+10 - 10-love_exponent_breath -  Love is anterior to life
 11 - 11-binary_to_decimal - There are 10 types of people
 12 - 12-combinations - Combination 
 13 - 13-print_float -  Floats 
