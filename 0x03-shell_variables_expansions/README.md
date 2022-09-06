@@ -12,4 +12,7 @@
 11 - 11-binary_to_decimal - There are 10 types of people
 12 - 12-combinations - Combination 
 13 - 13-print_float -  Floats 
-
+14 - 100-decimal_to_hexadecimal - Decimal to Hexadecimal
+15 - 101-rot13 - Everyone is a proponent of strong encryption
+16 - 102-odd - The eggs of the brood need to be an odd number
+17 - 103-water_and_stir - I'm an instant star. Just add water
