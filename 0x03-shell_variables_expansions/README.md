@@ -15,4 +15,4 @@
 14 - 100-decimal_to_hexadecimal - Decimal to Hexadecimal
 15 - 101-rot13 - Everyone
 16 - 102-odd - The eggs 
-17 - 103-water_and_stir - star page
+17 - 103-water_and_stir -pagestar
