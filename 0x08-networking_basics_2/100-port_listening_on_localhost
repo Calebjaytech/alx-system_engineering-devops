@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-# Port listening on localhost
+# This script is listening on port 98 on localhost.
+
 nc -l 98

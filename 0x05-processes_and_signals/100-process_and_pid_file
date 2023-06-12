@@ -1,11 +1,21 @@
 #!/usr/bin/env bash
-# Process and PID file
-fpath="/var/run/holbertonscript.pid"
-echo $$ > /var/run/holbertonscript.pid
-    trap 'echo "I hate the kill command"; rm -rf $fpath; exit 0' SIGTERM
-    trap 'echo "Y U no love me?!"' SIGINT
-    trap 'rm -rf $fpath; exit 0' SIGQUIT
-while true; do
+# a lot of extra traps
+file=/var/run/myscript.pid
+function finishQuit {
+    sudo rm $file
+    exit
+}
+function finishTerm {
+    echo 'I hate the kill command'
+    sudo rm $file
+    exit
+}
+trap finishTerm SIGTERM
+trap finishQuit SIGQUIT
+trap "echo 'Y U no love me?!'" SIGINT
+sudo bash -c "echo $$ > $file"
+while ((1))
+do
     echo "To infinity and beyond"
     sleep 2
 done

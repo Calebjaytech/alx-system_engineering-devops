@@ -1,9 +1,9 @@
-# MYSQL - Database Administartion
+# MySQL
 
-# Resources
-1. [Database](https://alx-intranet.hbtn.io/rltoken/Bi534S5urrx_MObbFiDlcg)
-2. [database primary/replicate cluster](https://alx-intranet.hbtn.io/rltoken/0NUxqbrwFKZxBvPKReXe3Q)
-3. [MySQL primary/replicate setup](https://alx-intranet.hbtn.io/rltoken/6ufPnETrZhEjXny0KS9fMA)
-4. [Build a robust database backup strategy](https://alx-intranet.hbtn.io/rltoken/Gbn8xPyGp9ACiFUMZJR4sw)
+## General
 
-
+* What is the main role of a database
+* What is a database replica
+* What is the purpose of a database replica
+* Why database backups need to be stored in different physical locations
+* What operation should you regularly perform to make sure that your database backup strategy actually works

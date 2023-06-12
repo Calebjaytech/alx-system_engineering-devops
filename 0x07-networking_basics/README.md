@@ -1,17 +1,19 @@
-# Networking basics
-Project done during **Full Stack Software Engineering studies** at **Alx School**. It aims to learn about what is an OSI model, LAN, WAN, IP address, localhost, subnet and TCP/UDP.
+# 0x07. Networking basics 
 
-## Technologies
-* Scripts written in Bash 4.3.11(1)
-* Tested on Ubuntu 14.04 LTS
+![](networking.png)
 
-## Files
+This project we will mainly focus on:
+ - The Transport layer and especially TCP/UDP
+ - On the Network layer with IP and ICMP
+The image bellow describes more concretely how you can relate to every level.
 
-| Filename | Description |
-| -------- | ----------- |
-| `0-OSI_model` | Answers of two questions related with OSI model |
-| `1-types_of_network` | Answers of three questions related with WAN and LAN |
-| `2-MAC_and_IP_address` | Answers of two questions related with MAC and IP address |
-| `3-UDP_and_TCP` | Answers of three questions related with TCP and UDP |
-| `4-TCP_and_UDP_ports` | Bash script that displays listening ports that only shows listening sockets |
-| `5-is_the_host_on_the_network` | Bash script that pings an IP address passed as an argument |
+![](protocols.jpg)
+
+### Tasks
+0. OSI model
+1. Types of network 
+2. MAC and IP address 
+3. UDP and TCP 
+4. TCP and UDP ports 
+5. Is the host on the network 
+

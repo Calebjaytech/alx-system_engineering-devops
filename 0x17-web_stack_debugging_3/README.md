@@ -1,3 +1,1 @@
-# webstack debugging
-debugging a wordpress powered site using strace
-automating it using puppet.
+# 0x17. Web stack debugging #3
